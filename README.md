@@ -39,4 +39,4 @@ driver work is needed on the kiosk side.
 
 ## Maintainer
 
-Bob Johansson · Jade Circuit · bob@jadecircuit.com
+Oskar Johansson · Jade Circuit · oskar@jadecircuit.com
